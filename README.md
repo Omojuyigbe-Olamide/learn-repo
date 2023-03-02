@@ -1,3 +1,3 @@
 # Demo
 
-Learning git well
+Learning git well.
