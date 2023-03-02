@@ -4,4 +4,4 @@ Learning git well.
 
 ## subheader
 
-Watch tutorial on Ygit ouTube.
+Watch tutorial on YouTube.
